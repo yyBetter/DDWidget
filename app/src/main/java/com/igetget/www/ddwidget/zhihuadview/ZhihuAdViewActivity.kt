@@ -9,6 +9,7 @@ import com.igetget.www.ddzhihuadview.ZhihuAdView
 
 /**
  * Created by yangyu on 2017/12/6.
+ * https://juejin.im/post/5a255d94f265da430e4f0066?utm_source=gold_browser_extension
  */
 class ZhihuAdViewActivity : AppCompatActivity {
 
